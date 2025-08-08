@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/velez-react/static/css/main.2d945600.css",
+    "main.js": "/velez-react/static/js/main.c9ffa4cb.js",
+    "index.html": "/velez-react/index.html",
+    "main.2d945600.css.map": "/velez-react/static/css/main.2d945600.css.map",
+    "main.c9ffa4cb.js.map": "/velez-react/static/js/main.c9ffa4cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d945600.css",
+    "static/js/main.c9ffa4cb.js"
+  ]
+}
